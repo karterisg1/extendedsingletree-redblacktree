@@ -1,0 +1,3 @@
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -c rb.c
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -c program.c
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -o p program.o rb.o

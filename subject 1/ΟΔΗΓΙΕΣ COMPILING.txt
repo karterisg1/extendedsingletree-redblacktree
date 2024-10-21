@@ -1,0 +1,3 @@
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -c bt.c
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -c program1.c
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -o p1 bt.o program1.o

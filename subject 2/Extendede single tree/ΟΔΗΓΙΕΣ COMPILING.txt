@@ -1,0 +1,6 @@
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -c bst_implementation.c
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -c item_implementation.c
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -c demo.c
+C:\"Program Files (x86)"\Dev-Cpp\MinGW64\bin\gcc.exe -o p2 item_implementation.o bst_implementation.o demo.o
+
+p2 7 < data.txt
